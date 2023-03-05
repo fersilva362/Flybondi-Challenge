@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d928fe5e.css",
+    "main.js": "/static/js/main.72e7efb8.js",
+    "static/media/mendoza.webp": "/static/media/mendoza.965567aee40f7720afa9.webp",
+    "static/media/cordoba.webp": "/static/media/cordoba.305187d51f5ee8681179.webp",
+    "static/media/barilo.webp": "/static/media/barilo.30d23636ffd83329c15a.webp",
+    "static/media/buenos-aires.webp": "/static/media/buenos-aires.189f1cf3ff6a70ae1bf6.webp",
+    "index.html": "/index.html",
+    "main.d928fe5e.css.map": "/static/css/main.d928fe5e.css.map",
+    "main.72e7efb8.js.map": "/static/js/main.72e7efb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d928fe5e.css",
+    "static/js/main.72e7efb8.js"
+  ]
+}
